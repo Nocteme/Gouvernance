@@ -12,4 +12,6 @@
         - entity
         - under entity
     XML parameters
+# - Project Geometrie 
+    creation of an app to teach to the kid how to calculate the perimeter and the air of basic geometrical form
         
